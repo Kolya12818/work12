@@ -1,0 +1,40 @@
+.el1{
+    color:pink   
+}
+.el1{
+    border: 4px solid green; 
+    width: 400px;
+    border-radius: 34px;
+}
+.el2{
+    color: grey;
+}
+.el2{
+    border: 4px solid rgb(0, 0, 0); 
+    width: 400px;
+    border-radius: 34px;
+}
+.el3{
+    color: red;
+}
+.el3{
+    border: 4px solid rgb(210, 0, 252); 
+    width: 400px;
+    border-radius: 34px;
+}
+.el4{
+    color: green;
+}
+.el4{
+    border: 4px solid rgb(251, 255, 0); 
+    width: 400px;
+    border-radius: 34px;
+}
+.yellow{
+    color: yellow;
+}
+.yellow{
+    border: 4px solid rgb(76, 2, 247); 
+    width: 400px;
+    border-radius: 34px;
+}
